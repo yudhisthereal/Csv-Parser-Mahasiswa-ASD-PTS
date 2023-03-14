@@ -1,0 +1,3 @@
+the folder containing this file only exists for the purpose of testing:
+What will happen if the user chooses that folder that doesn't contain the csv file required?
+of course, the program should ask again ("hey give me a proper path!")
