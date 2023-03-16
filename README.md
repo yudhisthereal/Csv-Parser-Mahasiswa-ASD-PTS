@@ -2,8 +2,10 @@
 Mid-Semester Project for Algorithm and Data Structure subject.
 
 <h2><b>WHAT'S GOING ON HERE???</b></h2>
+
 > "Why are the files and folders structured in such a weird manner? the CSV files exist in both the `main folder` and `csv` folder??"
-> is probably what you're thinking.
+
+is probably what you're thinking.
 This section was made in order to eliminate possible confusions.
 
 <h3>The CSV Files</h3>
