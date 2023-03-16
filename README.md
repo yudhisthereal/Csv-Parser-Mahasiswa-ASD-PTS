@@ -11,7 +11,8 @@ This section was made in order to eliminate possible confusions.
 ![csv files in csv folder](https://user-images.githubusercontent.com/63510362/225625434-31c242f7-94eb-4dbf-ad67-e115739c3329.png "csv files in csv folder")
 `MK-A.csv`,`MK-B.csv`,`MK-C.csv`, and `MK-D.csv` were put in both the `main folder` and `csv` folder for testing purposes.
 
-The test is as follows:\n
+The test is as follows:
+
 ![imgae of promt folder for csv files](https://user-images.githubusercontent.com/63510362/225622897-5bf36e05-7bd0-45ba-a48f-c744df5862cb.png "image of initial prompt")
 The image being shown above is the first thing the program asks the user: "where does the CSV files exist?" So for testing purposes, I put the CSV files in two different directories: in the `main folder` (acting as the current folder) and `csv` folder. If the input is either `csv` or `.` it should work without issue. Other inputs should make the program ask the user for the valid path again.
 
