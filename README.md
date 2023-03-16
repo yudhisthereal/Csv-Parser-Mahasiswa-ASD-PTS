@@ -32,7 +32,7 @@ The executable file that you can run if you're on <b>Windows</b>.
 <h3>main.cpp</h3>
 It's the source code, as you'd expect. 
 
-###<b>Prerequisites :</b>
+### <b>Prerequisites :</b>
 1. A working CLI based tool (i.e. CMD, powershell, terminal, etc.)
 
 2. G++ v8 (or any other C++ compiler that fully supports `<filesystem>` library)
