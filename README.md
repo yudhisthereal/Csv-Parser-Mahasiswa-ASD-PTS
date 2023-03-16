@@ -41,4 +41,4 @@ It's the source code, as you'd expect.
 
 
 ### Author
-By Yudhistira (225150301111029)
+Yudhistira (225150301111029)
